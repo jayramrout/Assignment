@@ -12,7 +12,6 @@ public class AverageValue {
 		int[] numbers = new int[]{10,20,30,25,16,70,100};
 		// Write a for loop or while loop to find the average
 	}
-
 }
 /*
 Output of Calculate Average value of Array elements using Java Example would be
