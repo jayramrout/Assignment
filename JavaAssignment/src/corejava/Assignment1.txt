@@ -1,0 +1,16 @@
+Write a program Calculator
+	give 3 arguments then do the calculation depending on the 3 argument.
+	Eg: Calculator 34 56 +
+	Eg: Calcualtor 33 88 -
+	
+===============
+for(int i =0 ; i < ages.length ; i++) {
+			System.out.println("ages["+i+"]"  +  "  " + ages[i]);
+		}
+Add up all the ages...			
+While in the for loop if the value of age is more than 50 then print.. YOU R OLD
+=============== =============== ===============
+
+Calculate Average value for the below array.
+int[] numbers = new int[]{10,20,15,25,16,60,100};
+
