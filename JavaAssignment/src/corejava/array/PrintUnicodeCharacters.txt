@@ -1,0 +1,3 @@
+Open https://unicode-table.com/en/
+
+and print the unicode charaterts from 00A0 to may be 20 rows ..
