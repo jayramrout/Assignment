@@ -1,0 +1,5 @@
+Go to the below link:
+https://unicode-table.com/en/#basic-latin
+
+And try to print all the unicode character(May be few rows and columns...)
+
