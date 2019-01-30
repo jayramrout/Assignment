@@ -23,6 +23,7 @@ public class FibonacciSeriesExample {
         for(int i=2; i < limit; i++){
         	// Write your code here to fill the series array with fibonaaci values.
 //                series[i] = 
+		series[i]=series[i-1]+series[i-2];
         }
        
         //print the Fibonacci series numbers
