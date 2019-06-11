@@ -1,0 +1,6 @@
+06/04:
+    Using FileReader(BufferedReader) , read a text file and write using FileWriter(BufferedWriter) to another file.
+    Using FileReader(BufferedReader) , read a bin(.pdf) file and write using FileWriter(BufferedWriter) to another file(.pdf)
+
+    Using BufferedInputStream , read a text file and write using BufferedOutputStream to another file.
+    Using BufferedInputStream , read a bin(.pdf) file and write using BufferedOutputStream to another file(.pdf)
