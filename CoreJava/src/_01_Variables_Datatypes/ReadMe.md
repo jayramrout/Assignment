@@ -40,6 +40,8 @@ A variable which is declared as static is called static variable. It cannot be l
 - Boolean
 - Character
 
+![N|Solid](https://github.com/jayramrout/Assignment/blob/master/CoreJava/src/_01_Variables_Datatypes/java-data-types.png?raw=true)
+
 *1 Byte = 8 Bits*
 
 > 8 bits: maximum representable value  2^8 − 1 = 255 (- 2^7 to + 2^7-1)
