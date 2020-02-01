@@ -1,4 +1,4 @@
-package corejava.assignment01;
+package _01_Variables_Datatypes.assignment01;
 
 /*
 (Summation of a series) Write a program that displays the result of

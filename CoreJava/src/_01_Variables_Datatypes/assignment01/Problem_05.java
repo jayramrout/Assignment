@@ -1,4 +1,4 @@
-package corejava.assignment01;
+package _01_Variables_Datatypes.assignment01;
 
 /*
 (Area and perimeter of a rectangle) Displays the area and

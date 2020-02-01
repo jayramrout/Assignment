@@ -1,4 +1,4 @@
-package corejava.assignment01;
+package _01_Variables_Datatypes.assignment01;
 
 /*
 (Average speed in kilometers) Assume a runner runs 24 miles in 1 hour, 40 minutes,

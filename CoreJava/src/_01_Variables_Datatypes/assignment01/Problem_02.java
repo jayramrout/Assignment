@@ -1,4 +1,4 @@
-package corejava.assignment01;
+package _01_Variables_Datatypes.assignment01;
 
 /**
  * Its a division Problem .

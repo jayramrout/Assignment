@@ -1,4 +1,4 @@
-package corejava.assignment01;
+package _01_Variables_Datatypes.assignment01;
 
 /**
  * Solve (a + b) whole square = a square + b square + 2ab
