@@ -22,16 +22,15 @@ Operators in java is used primarly for operations like addition(+), substraction
 ****
 ##### Examples of some operators:
 
-**Shortciruit Operator**
-``
-
+**Short circuit Operator**
+```
         int a_distance = 20;
         int b_distance = 44;
         int c_distance = 50;
         System.out.println(a_distance > b_distance  &&  c_distance++ > 20); // false
         System.out.println(c_distance); 50
-    
-``
+```
+
 
 **Unary Operator**
 
