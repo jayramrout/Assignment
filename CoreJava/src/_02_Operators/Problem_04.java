@@ -1,4 +1,4 @@
-package corejava.assignment02;
+package _02_Operators;
 /*
 Write a program that converts pounds into kilograms.
 The program prompts the user to enter a number in pounds, converts it
