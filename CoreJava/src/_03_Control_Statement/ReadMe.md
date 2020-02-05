@@ -17,6 +17,7 @@ An 'if' statement in java determines the sequence of execution between a set of 
 - Continue
 
 #### if statement
+
 ```java
 if (condition) { 
     Statement 1; //executed if condition is true
@@ -25,6 +26,7 @@ if (condition) {
 ```
 
 #### if-else statement
+
 ```java
 if (condition) { 
     Statement 1; //executed if condition is true
@@ -35,6 +37,7 @@ if (condition) {
 ```
 
 #### Nested if statement
+
 ```java
 
 if (condition1) {
@@ -46,9 +49,10 @@ if (condition1) {
     Statement 3; //executed if second condition is false
 }
 
-
 ```
+
 #### Switch statement
+
 ```java
 int switch_value = 1; 
 switch (switch_value){
@@ -66,7 +70,7 @@ switch (switch_value){
 
 ### Looping statements
 
-####While
+#### While
 ```java
 
 while (condition)
@@ -75,14 +79,14 @@ while (condition)
 }
 
 ```
-####Do-while
+#### Do-while
 ```java
 do{
     //code to be executed
 }while(condition);
 
 ```
-####For
+#### For
 ```java
 
 for (initialization; condition; increment/decrement)
@@ -93,6 +97,6 @@ for (initialization; condition; increment/decrement)
 ```
 #### For-Each
 
-####Break
+#### Break
 
-####Continue
+#### Continue
