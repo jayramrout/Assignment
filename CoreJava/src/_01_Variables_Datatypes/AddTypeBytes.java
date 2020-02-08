@@ -9,8 +9,8 @@ public class AddTypeBytes {
         byte a=10;
         byte b=10;
 
-        byte c = a + b; // This will give compile time error. Correct it.
-        System.out.println("Sum of "+ a +" and "+ b +" is"+ c);
+        //byte c = a + b; // This will give compile time error. Correct it.
+        //System.out.println("Sum of "+ a +" and "+ b +" is"+ c);
 
     }
 }
