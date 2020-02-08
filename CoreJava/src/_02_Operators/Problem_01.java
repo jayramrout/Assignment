@@ -1,4 +1,4 @@
-package corejava.assignment02;
+package _02_Operators;
 
 /*
 (Convert Celsius to Fahrenheit) Write a program that reads a Celsius degree in

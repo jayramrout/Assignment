@@ -1,4 +1,4 @@
-package corejava.assignment02;
+package _02_Operators;
 
 /*
 (Compute the volume of a cylinder) Write a program that reads in the radius
