@@ -1,0 +1,4 @@
+Use the below resource to see different examples.
+Try to read the examples.
+
+https://beginnersbook.com/2017/09/java-examples/
