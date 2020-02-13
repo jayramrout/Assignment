@@ -14,7 +14,7 @@ public class DetermineLeapYear {
 		System.out.println("Enter a Year: \n");
 		int year  = scan.nextInt();
 		
-		boolean isLeapYear = false; // Your Logic should go here.
+		boolean isLeapYear = year % 400 == 0 || (year % 4 == 0 && year % 100 != 0 ); // Your Logic should go here.
 		if(isLeapYear)
 			 System.out.println("Year " + year + " is a leap year");
 		else

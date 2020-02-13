@@ -14,6 +14,16 @@ public class Program_03 {
         System.out.println("Enter weight");
         int weight = scanner.nextInt();
 
+        if(age > 18) {
+            if(weight > 50) {
+                System.out.println("You are eligible to donate blood");
+            } else {
+                System.out.println("You are not eligible to donate blood");
+            }
+        } else {
+            System.out.println("Age must be greater than 18");
+        }
+
         /*
             if age>=18
                 weight>50

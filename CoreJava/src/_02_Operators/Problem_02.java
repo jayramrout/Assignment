@@ -20,5 +20,9 @@ public class Problem_02 {
         double length = input.nextDouble();
 
         System.out.println("Compute area and volume and print the value");
+        double area  = Math.pow(radius, 2) * Math.PI;
+        System.out.println("Area: " + area);
+        double volume  = area * length;
+        System.out.println("Volume: " + volume);
     }
 }

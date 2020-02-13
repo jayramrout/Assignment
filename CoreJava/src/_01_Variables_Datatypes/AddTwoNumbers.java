@@ -1,5 +1,7 @@
 package _01_Variables_Datatypes;
 
+import java.util.Scanner;
+
 /**
  * Take two numbers, assign it to two different variables.
  * SUM both the variables and store it to the variable in line 10;
@@ -8,7 +10,9 @@ package _01_Variables_Datatypes;
 public class AddTwoNumbers {
     public static void main(String[] args) {
 
-        int sum = 0 ;
-        System.out.println("Sum of these numbers: "+sum);
+        int a = 5;
+        int b = 6;
+        int sum = a + b;
+        System.out.println("Sum of these numbers: " + sum);
     }
 }

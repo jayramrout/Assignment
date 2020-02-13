@@ -11,6 +11,13 @@ public class Program_02 {
         System.out.println("Enter the mark");
         int marks = scanner.nextInt();
 
+        if(marks > 0) {
+            System.out.println("+ve");
+        } else if(marks < 0) {
+            System.out.println("-ve");
+        } else {
+            System.out.println("ZERO");
+        }
         /*
             number>0 --> +ve
             number<0 --> -ve

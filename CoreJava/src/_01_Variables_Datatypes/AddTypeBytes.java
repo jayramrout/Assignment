@@ -6,11 +6,11 @@ package _01_Variables_Datatypes;
  */
 public class AddTypeBytes {
     public static void main(String[] args) {
-        byte a=10;
-        byte b=10;
+        byte a = 10;
+        byte b = 10;
 
-        byte c = (byte)(a + b); // This will give compile time error. Correct it.
-        System.out.println("Sum of "+ a +" and "+ b +" is"+ c);
+        byte c = (byte) (a + b); // This will give compile time error. Correct it.
+        System.out.println("Sum of " + a + " and " + b + " is " + c);
 
     }
 }

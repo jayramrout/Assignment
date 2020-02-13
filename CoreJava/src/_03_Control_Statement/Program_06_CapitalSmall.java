@@ -14,6 +14,15 @@ public class Program_06_CapitalSmall {
         char character = scanner.next().charAt(0);
 
         System.out.println(character);
+        int i = (int)character;
+
+        if(i <= 90 && i >= 65) {
+            System.out.println("This character is capital letter");
+        } else if (i <= 122 && i >= 97) {
+            System.out.println("This character is small letter");
+        } else {
+            System.out.println("This character is not a letter");
+        }
 
         /*
         HINT: convert the character to a int  which will give you the ascii value of a character.

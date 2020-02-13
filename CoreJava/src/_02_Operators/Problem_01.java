@@ -18,6 +18,8 @@ public class Problem_01 {
         System.out.print("Enter a degree in Celsius: ");
         double celsius = input.nextDouble();
 
-        System.out.println("TODO: Print the output ");
+        //System.out.println("TODO: Print the output ");
+        double fahrenheit = 32 + celsius * 1.8;
+        System.out.print("Fahrenheit degree of " + celsius + "is: " + fahrenheit);
     }
 }

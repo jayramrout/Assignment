@@ -7,5 +7,7 @@ public class Problem_05 {
 		int b=5;
 		int c=20;
 		// check if a > b or b < c . If this condition is true, then print success. you can use ternary operator or if else condition
+		String output = (a > b || b < c ) ? "success" : "failed";
+		System.out.println(output);
 	}
 }

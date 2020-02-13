@@ -15,7 +15,7 @@ public class Problem_03 {
 		double feet = input.nextDouble();
 
 		// Convert feet into meters
-		double meters = 0 ; // TODO : Add the logic here.
+		double meters = feet * METERS_PER_FOOT ; // TODO : Add the logic here.
 
 		// Display results
 		System.out.println(feet + " feet is " + meters + " meters");

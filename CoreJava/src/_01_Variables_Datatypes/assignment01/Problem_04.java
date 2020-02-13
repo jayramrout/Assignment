@@ -19,8 +19,8 @@ public class Problem_04 {
 		System.out.println("Radius = "+ radius);
 
 		System.out.println("Perimeter = ");
-		System.out.println("TODO : Writer you code to print the perimeter");
+		System.out.println(2 * radius * Math.PI);
 		System.out.println("Area = ");
-		System.out.println("TODO : Writer you code to print the Area");
+		System.out.println(radius * radius * Math.PI);
 	}
 }

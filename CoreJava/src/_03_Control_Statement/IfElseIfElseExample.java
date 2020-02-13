@@ -14,9 +14,9 @@ public class IfElseIfElseExample {
 		System.out.println("Enter a value : \n");
 		int input  = scan.nextInt();
 		 
-	     if(false) // Replace your code with false
+	     if(input > 100) // Replace your code with false
 	       System.out.println("i is greater than 100");
-	     else if(false) // Replace your code with false
+	     else if(input > 50) // Replace your code with false
 	       System.out.println("i is greater than 50");
 	     else
 	       System.out.println("i is less than 50");

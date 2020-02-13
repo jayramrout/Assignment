@@ -9,6 +9,6 @@ public class Problem_02 {
 		System.out.println("-------------------");
 		System.out.println("     45.5 - 3.5");
 		System.out.println("         =");
-
+		System.out.println((9.5 * 4.5 - 2.4 * 3) / (45.5 - 3.5));
 	}
 }
