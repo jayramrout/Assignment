@@ -1,4 +1,4 @@
-package _03_Control_Statement;
+package _03_Control_Statement_Arrays;
 
 public class ContinueExample_01 {
     public static void main(String[] args) {

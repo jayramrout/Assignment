@@ -1,4 +1,4 @@
-package _03_Control_Statement;
+package _03_Control_Statement_Arrays;
 
 import java.util.Scanner;
 /*

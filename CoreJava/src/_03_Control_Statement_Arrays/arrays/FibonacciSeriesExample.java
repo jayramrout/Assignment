@@ -1,4 +1,4 @@
-package corejava.array;
+package _03_Control_Statement_Arrays.arrays;
 
 /**
  * A series of numbers in which each number ( Fibonacci number ) 

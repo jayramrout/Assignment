@@ -1,4 +1,4 @@
-package corejava.forloop;
+package _03_Control_Statement_Arrays.loops;
 
 public class MultipleVariables {
 

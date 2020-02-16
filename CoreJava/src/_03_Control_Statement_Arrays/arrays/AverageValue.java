@@ -1,4 +1,4 @@
-package corejava.array;
+package _03_Control_Statement_Arrays.arrays;
 
 /**
  * Find the Average Value of the numbers array

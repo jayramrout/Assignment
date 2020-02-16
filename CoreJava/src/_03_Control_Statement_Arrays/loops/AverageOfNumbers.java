@@ -1,4 +1,4 @@
-package corejava.forloop;
+package _03_Control_Statement_Arrays.loops;
 
 /**
  * Solve the problem to find the average of the values in the below array.
